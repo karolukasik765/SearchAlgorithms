@@ -1,6 +1,6 @@
 # Search Algorithms
 
-Implementation of Dijskra, A* and Tabu Search in Python to find the quickest connection between any stops in Wrocław at any given time
+Implementation of Dijkstra, A* and Tabu Search in Python to find the quickest connection between any stops in Wrocław at any given time
 having real dataset from MPK Wrocław.
 
 ![Zrzut ekranu (631)](https://user-images.githubusercontent.com/100850964/231619623-f41252d1-e193-4b97-a040-974eeb03a5ac.png)
