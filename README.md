@@ -1,4 +1,4 @@
-# SearchAlgorithms
+# Search Algorithms
 
 Implementation of Dijskra, A* and Tabu Search in Python to find the quickest connection between any stops in Wrocław at any given time
 having real dataset from MPK Wrocław.
@@ -11,4 +11,4 @@ Program allows to decide if we prefer to reach destination quicker or take the l
 
 ![Zrzut ekranu (634)](https://user-images.githubusercontent.com/100850964/231619868-396faab7-ab98-4ea9-bd34-73bed4829a25.png)
 
-Finally project allows to look for the shortest path between list of stops using tabu search and implemented algorithms.
+Finally project allows to look for the shortest path between list of stops using tabu search and implemented algorithms. I am currently working in improving this part.
